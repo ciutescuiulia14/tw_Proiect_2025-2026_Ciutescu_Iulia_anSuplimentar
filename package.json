@@ -1,0 +1,12 @@
+{
+  "name": "tw_proiect_2025-2026_ciutescu_iulia_ansuplimentar",
+  "version": "1.0.0",
+  "description": "* Ciutescu Iulia Alexandra\r * An III Suplimentar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
